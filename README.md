@@ -1,7 +1,7 @@
 # AI RedTeam Projects (Public ToC)
 
-## Due to the potential sensitive nature of the contents of my AI Red Team repo & code projects, this page is maintained as an index of my portfolio.
-## Where applicable, videos, links, or screenshots may be provided.  Further information may be available upon request.
+## Due to the potential sensitive nature of the contents of my AI Red Team repo & code projects, this page is maintained as an index of my portfolio.  
+Further information may be available upon request.
 
 
 ### Hugging Face - AI Agents  
