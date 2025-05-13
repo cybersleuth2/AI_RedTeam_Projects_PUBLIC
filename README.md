@@ -5,7 +5,8 @@
 
 
 ### Hugging Face - AI Agents  
-This repo is public and my first simple agent is available on Hugging Face Spaces.  LINK: https://huggingface.co/spaces/sl4psh0t/College_Comparison_Agent
+This repo is public and my first simple agent is available on Hugging Face Spaces.  
+LINK: https://huggingface.co/spaces/sl4psh0t/College_Comparison_Agent
 
 
 ### Dueling Bots
