@@ -1,4 +1,4 @@
-# AI_RedTeam_Projects_PUBLIC
+# AI RedTeam Projects (Public ToC)
 
 ## Due to the potential sensitive nature of the contents of my AI Red Team repo & code projects, this page is maintained as an index of my portfolio.
 
