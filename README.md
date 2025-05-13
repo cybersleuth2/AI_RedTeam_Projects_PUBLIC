@@ -4,16 +4,13 @@
 ## Where applicable, videos, links, or screenshots may be provided.  Further information may be available upon request.
 
 
-### Project #1: 
-Hugging Face - AI Agents:  This repo is public and my first simple agent is available on Hugging Face Spaces.
-- [ ] https://huggingface.co/spaces/sl4psh0t/College_Comparison_Agent
+### Hugging Face - AI Agents  
+This repo is public and my first simple agent is available on Hugging Face Spaces.  LINK: https://huggingface.co/spaces/sl4psh0t/College_Comparison_Agent
 
 
-### Project #2: 
-Used Ollama Server to create a local instance of "Dueling Bots" that engage in back and forth prompting conversation. This runs through Jupyter Notebook as well as in a Windows CMD. Mistral is the adversary model; Llama2 is the victim model.
-- [ ] (link coming soon)
+### Dueling Bots
+Used Ollama Server to create a local instance of "Dueling Bots" that engage in back and forth prompting conversation. This runs through Jupyter Notebook as well as in a Windows CMD. Mistral is the adversary model; Llama2 is the victim model.   LINK: (coming soon)
 
 
-### Project #3:
-(In Progress)
+### Human-in-the-Loop Jailbreak (in progress)
 
